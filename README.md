@@ -1,2 +1,2 @@
 # MeusProjectos
- para guardar os meus projectos
+ para guardar os meus futuros projectos.
